@@ -1,2 +1,2 @@
 # OpenBootcamp
-This will be the OpenBootcamp exercise solution's repository
+This will be the OpenBootcamp exercises solution's repository
